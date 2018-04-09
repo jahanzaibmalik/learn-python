@@ -7,4 +7,3 @@ if requested_toppings:
     print("\nFinished making your pizza!")
 else:
     print("Are you sure you want a plain pizza?")
-    print("Are you sure you want a plain pizza?")
