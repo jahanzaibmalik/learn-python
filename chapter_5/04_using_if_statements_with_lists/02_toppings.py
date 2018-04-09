@@ -6,5 +6,5 @@ if requested_toppings:
         print("Adding " + requested_topping + ".")
     print("\nFinished making your pizza!")
 else:
-    print("Are you sure you want a plain pizza?")
+    print("Are you sure you want plain pizza?")
 
