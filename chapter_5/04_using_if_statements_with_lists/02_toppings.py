@@ -8,3 +8,4 @@ if requested_toppings:
 else:
     print("Are you sure you want plain pizza?")
 
+print("Are you sure you want plain pizza?")
