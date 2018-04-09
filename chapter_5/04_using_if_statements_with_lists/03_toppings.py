@@ -1,2 +1,0 @@
-# Using Multiple Lists
-print("")
