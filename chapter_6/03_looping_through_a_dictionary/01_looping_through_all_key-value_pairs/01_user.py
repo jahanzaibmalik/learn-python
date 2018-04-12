@@ -2,7 +2,7 @@
 user_0 = {
     'username': 'shahrukh',
     'first': 'jahanzaib',
-    'last': 'mallik'
+    'last': 'malik'
 }
 
 for key, value in user_0.items():
