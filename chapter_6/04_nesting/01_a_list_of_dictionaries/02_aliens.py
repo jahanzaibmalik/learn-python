@@ -1,5 +1,4 @@
 # A list of Dictionaries
-# Make an empty list for storing aliens.
 aliens = []
 
 for alien_number in range(30):
