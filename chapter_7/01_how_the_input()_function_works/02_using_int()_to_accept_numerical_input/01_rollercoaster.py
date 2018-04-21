@@ -1,3 +1,4 @@
+# Using int() to Accept Numerical Input
 height = input("How old are you, in inches? ")
 height = int(height)
 
