@@ -1,3 +1,4 @@
+# The Modulo Operator
 number = input("Enter a number, and I'll tell you if it's even or odd: ")
 number = int(number)
 
